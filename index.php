@@ -151,7 +151,7 @@
     </div>
     <!-- /.content-wrapper -->
     <footer class="main-footer">
-      <strong>Copyright &copy; 2022 <a href="https://smktj-bdg.sch.id">Agus Ariyanto</a>.</strong>
+      <strong>Copyright &copy; 2022 <a href="https://smktj-bdg.sch.id">wdz</a>.</strong>
       All rights reserved.
       <div class="float-right d-none d-sm-inline-block">
         <b>Version</b> 1.0

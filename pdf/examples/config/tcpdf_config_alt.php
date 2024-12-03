@@ -114,7 +114,7 @@ define ('PDF_HEADER_TITLE', 'App Kasir Versi 1.0 |');
 /**
  * Header description string.
  */
-define ('PDF_HEADER_STRING', "by Agus Ariyanto - Jl.Dipenogoro GG VB No.15 Br. Ambengan Denpasar Selatan\nwww.smktj-bdg.sch.id");
+define ('PDF_HEADER_STRING', "by wdz - Jl.Dipenogoro GG VB No.15 Br. Ambengan Denpasar Selatan\nwww.smktj-bdg.sch.id");
 
 /**
  * Document unit of measure [pt=point, mm=millimeter, cm=centimeter, in=inch].
